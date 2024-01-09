@@ -3,12 +3,12 @@
 <!--
 **raquelcarlu/raquelcarlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-• Focada na construção da minha carreira como Analista de Testes de Software | QA Automation Engineer<br />
-• Estudando Robot Framework e Postman<br />
-• Automação de testes web e API Rest<br />
-• Escritas de teste aplicando técnica BDD (Gherkin)<br />
-• Formação Engenharia de Software<br />
-• Tester desde 2020
+- Focada na construção da minha carreira como Analista de Testes de Software | QA Automation Engineer
+- Estudando Robot Framework e Postman
+- Automação de testes web e API Rest
+- Escritas de teste aplicando técnica BDD (Gherkin)
+- Formação Engenharia de Software
+- Tester desde 2020
 
 Contato:
 <div>
