@@ -4,9 +4,8 @@
 **raquelcarlu/raquelcarlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - Focada na construção da minha carreira como Analista de Testes de Software | QA Automation Engineer
-- Estudando Capybara e Cypress
+- Estudando Cypress
 - Automação de testes web e API Rest
-- Escritas de teste aplicando técnica BDD (Gherkin)
 - Formação Engenharia de Software
 - Tester desde 2020
 
