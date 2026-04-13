@@ -3,7 +3,7 @@
 <!--
 **raquelcarlu/raquelcarlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- Analista de Testes de Software | QA Automation Engineer
+- Analista de Testes de Software
 - Cypress
 - Automação de testes web e API Rest
 - Formação Engenharia de Software
